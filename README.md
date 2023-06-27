@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Ingestion Tool for Visualization
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -31,3 +32,6 @@ To get started with the Data Ingestion Tool for Visualization, follow the steps 
    git clone https://github.com/your-username/data-ingestion-tool.git
 
 Feel free to copy and use this code in your project's README file.
+=======
+# analyst-tools-v2
+>>>>>>> 9677c419927a909855e3e82100b8aeb30f5db76d
